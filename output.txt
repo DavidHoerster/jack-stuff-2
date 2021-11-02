@@ -1,0 +1,372 @@
+Ordered guessing
+4-character passwords
+Password is: aca5
+Password found...aca5 == 
+Elapsed time: 10900 TICKS
+Password is: 7208
+Password found...7208 == 
+Elapsed time: 1076814 TICKS
+Password is: 2500
+Password found...2500 == 
+Elapsed time: 778810 TICKS
+Password is: 41b4
+Password found...41b4 == 
+Elapsed time: 874511 TICKS
+Password is: 0c22
+Password found...0c22 == 
+Elapsed time: 601008 TICKS
+Password is: b17e
+Password found...b17e == 
+Elapsed time: 116102 TICKS
+Password is: f061
+Password found...f061 == 
+Elapsed time: 346005 TICKS
+Password is: 7fce
+Password found...7fce == 
+Elapsed time: 1055114 TICKS
+Password is: hjje
+Password found...hjje == 
+Elapsed time: 456606 TICKS
+Password is: a30f
+Password found...a30f == 
+Elapsed time: 64401 TICKS
+Password is: a5b1
+Password found...a5b1 == 
+Elapsed time: 71001 TICKS
+Password is: jihg
+Password found...jihg == 
+Elapsed time: 568308 TICKS
+Password is: hfd4
+Password found...hfd4 == 
+Elapsed time: 435806 TICKS
+Password is: h55c
+Password found...h55c == 
+Elapsed time: 486706 TICKS
+Password is: e6bb
+Password found...e6bb == 
+Elapsed time: 310704 TICKS
+Password is: ef8g
+Password found...ef8g == 
+Elapsed time: 264503 TICKS
+Password is: 0820
+Password found...0820 == 
+Elapsed time: 675809 TICKS
+Password is: 0hcg
+Password found...0hcg == 
+Elapsed time: 627109 TICKS
+Password is: g521
+Password found...g521 == 
+Elapsed time: 427305 TICKS
+Password is: h87c
+Password found...h87c == 
+Elapsed time: 501406 TICKS
+Ordered guessing
+6-character passwords
+Password is: 0d1d6i
+Password found...0d1d6i == 
+Elapsed time: 237 ms
+Password is: 6i67e7
+Password found...6i67e7 == 
+Elapsed time: 385 ms
+Password is: h5a5e4
+Password found...h5a5e4 == 
+Elapsed time: 188 ms
+Password is: daj102
+Password found...daj102 == 
+Elapsed time: 70 ms
+Password is: df4fjf
+Password found...df4fjf == 
+Elapsed time: 80 ms
+Password is: bijdfc
+Password found...bijdfc == 
+Elapsed time: 38 ms
+Password is: e27ji6
+Password found...e27ji6 == 
+Elapsed time: 116 ms
+Password is: ehcdb2
+Password found...ehcdb2 == 
+Elapsed time: 105 ms
+Password is: aaaj4g
+Password found...aaaj4g == 
+Elapsed time: 0 ms
+Password is: 6j4gbe
+Password found...6j4gbe == 
+Elapsed time: 387 ms
+Password is: dhgeg2
+Password found...dhgeg2 == 
+Elapsed time: 82 ms
+Password is: dc8fch
+Password found...dc8fch == 
+Elapsed time: 75 ms
+Password is: 16577i
+Password found...16577i == 
+Elapsed time: 284 ms
+Password is: fdbh7c
+Password found...fdbh7c == 
+Elapsed time: 120 ms
+Password is: b3ag2i
+Password found...b3ag2i == 
+Elapsed time: 46 ms
+Password is: 5c5464
+Password found...5c5464 == 
+Elapsed time: 351 ms
+Password is: f4jga7
+Password found...f4jga7 == 
+Elapsed time: 141 ms
+Password is: aeac75
+Password found...aeac75 == 
+Elapsed time: 7 ms
+Password is: 0gec45
+Password found...0gec45 == 
+Elapsed time: 241 ms
+Password is: 6af765
+Password found...6af765 == 
+Elapsed time: 369 ms
+Random guessing
+4-character passwords
+Password is: 7f0h
+Password found...7f0h == 
+Elapsed time: 1038314 TICKS
+Password is: 0h8d
+Password found...0h8d == 
+Elapsed time: 177503 TICKS
+Password is: b8cc
+Password found...b8cc == 
+Elapsed time: 138002 TICKS
+Password is: 6j7i
+Password found...6j7i == 
+Elapsed time: 1036214 TICKS
+Password is: 143f
+Password found...143f == 
+Elapsed time: 810111 TICKS
+Password is: 0j66
+Password found...0j66 == 
+Elapsed time: 909113 TICKS
+Password is: 3ge0
+Password found...3ge0 == 
+Elapsed time: 973313 TICKS
+Password is: 51j4
+Password found...51j4 == 
+Elapsed time: 1106915 TICKS
+Password is: b81f
+Password found...b81f == 
+Elapsed time: 44001 TICKS
+Password is: 48a8
+Password found...48a8 == 
+Elapsed time: 481307 TICKS
+Password is: eff1
+Password found...eff1 == 
+Elapsed time: 3200 TICKS
+Password is: 6c58
+Password found...6c58 == 
+Elapsed time: 386506 TICKS
+Password is: 35g4
+Password found...35g4 == 
+Elapsed time: 871711 TICKS
+Password is: 0dj3
+Password found...0dj3 == 
+Elapsed time: 812011 TICKS
+Password is: 884i
+Password found...884i == 
+Elapsed time: 376005 TICKS
+Password is: 8gg4
+Password found...8gg4 == 
+Elapsed time: 329105 TICKS
+Password is: 0dhe
+Password found...0dhe == 
+Elapsed time: 662009 TICKS
+Password is: 1d04
+Password found...1d04 == 
+Elapsed time: 790811 TICKS
+Password is: 7eib
+Password found...7eib == 
+Elapsed time: 1065214 TICKS
+Password is: d064
+Password found...d064 == 
+Elapsed time: 465606 TICKS
+Random guessing
+4-character passwords
+Password is: g12720
+Password found...g12720 == 
+Elapsed time: 278 ms
+Password is: 1icfb7
+Password found...1icfb7 == 
+Elapsed time: 343 ms
+Password is: bh7b6h
+Password found...bh7b6h == 
+Elapsed time: 156 ms
+Password is: 070j0b
+Password found...070j0b == 
+Elapsed time: 353 ms
+Password is: 7ica7g
+Password found...7ica7g == 
+Elapsed time: 451 ms
+Password is: 1bebhg
+Password found...1bebhg == 
+Elapsed time: 91 ms
+Password is: a4gf41
+Password found...a4gf41 == 
+Elapsed time: 211 ms
+Password is: 70ibji
+Password found...70ibji == 
+Elapsed time: 435 ms
+Password is: 6cifd0
+Password found...6cifd0 == 
+Elapsed time: 423 ms
+Password is: hg0hjd
+Password found...hg0hjd == 
+Elapsed time: 244 ms
+Password is: dc1j24
+Password found...dc1j24 == 
+Elapsed time: 126 ms
+Password is: h6hg81
+Password found...h6hg81 == 
+Elapsed time: 60 ms
+Password is: 52b1cc
+Password found...52b1cc == 
+Elapsed time: 419 ms
+Password is: 767d8h
+Password found...767d8h == 
+Elapsed time: 443 ms
+Password is: 6f5bc6
+Password found...6f5bc6 == 
+Elapsed time: 405 ms
+Password is: hej208
+Password found...hej208 == 
+Elapsed time: 265 ms
+Password is: 7jh2d6
+Password found...7jh2d6 == 
+Elapsed time: 408 ms
+Password is: idhj0j
+Password found...idhj0j == 
+Elapsed time: 229 ms
+Password is: c2ai54
+Password found...c2ai54 == 
+Elapsed time: 26 ms
+Password is: i8fb1a
+Password found...i8fb1a == 
+Elapsed time: 284 ms
+Ordered guessing
+8-character passwords
+Password is: h150147d
+Password found...h150147d == 
+Elapsed time: 74750 ms
+Password is: h3cc360h
+Password found...h3cc360h == 
+Elapsed time: 75486 ms
+Password is: 2fc82j56
+Password found...2fc82j56 == 
+Elapsed time: 116704 ms
+Password is: a812a736
+Password found...a812a736 == 
+Elapsed time: 13836 ms
+Password is: 673c08b4
+Password found...673c08b4 == 
+Elapsed time: 163656 ms
+Password is: 8jjgdi5j
+Password found...8jjgdi5j == 
+Elapsed time: 176410 ms
+Password is: 3dfb8chg
+Password found...3dfb8chg == 
+Elapsed time: 124743 ms
+Password is: bc8efi6c
+Password found...bc8efi6c == 
+Elapsed time: 11840 ms
+Password is: cab3e804
+Password found...cab3e804 == 
+Elapsed time: 18900 ms
+Password is: h6ighe15
+Password found...h6ighe15 == 
+Elapsed time: 78025 ms
+Password is: f82f6cda
+Password found...f82f6cda == 
+Elapsed time: 60851 ms
+Password is: g450fj7b
+Password found...g450fj7b == 
+Elapsed time: 67560 ms
+Password is: 4jb3b72j
+Password found...4jb3b72j == 
+Elapsed time: 138387 ms
+Password is: d7dc4774
+Password found...d7dc4774 == 
+Elapsed time: 40865 ms
+Password is: 88j4i786
+Password found...88j4i786 == 
+Elapsed time: 183055 ms
+Password is: jjh1db31
+Password found...jjh1db31 == 
+Elapsed time: 91675 ms
+Password is: dac38ih5
+Password found...dac38ih5 == 
+Elapsed time: 28376 ms
+Password is: 0hfce4aj
+Password found...0hfce4aj == 
+Elapsed time: 99604 ms
+Password is: jdbcfg8c
+Password found...jdbcfg8c == 
+Elapsed time: 86941 ms
+Password is: d665h712
+Password found...d665h712 == 
+Elapsed time: 40817 ms
+Random guessing
+8-character passwords
+Password is: 8ie485hc
+Password found...8ie485hc == 
+Elapsed time: 174382 ms
+Password is: i64c0gac
+Password found...i64c0gac == 
+Elapsed time: 104148 ms
+Password is: 4chh6jbi
+Password found...4chh6jbi == 
+Elapsed time: 169204 ms
+Password is: 4g6ej7a0
+Password found...4g6ej7a0 == 
+Elapsed time: 129943 ms
+Password is: 6cf02dc3
+Password found...6cf02dc3 == 
+Elapsed time: 159568 ms
+Password is: 26j8044b
+Password found...26j8044b == 
+Elapsed time: 140554 ms
+Password is: 783aid2f
+Password found...783aid2f == 
+Elapsed time: 68248 ms
+Password is: 1c3d5i4f
+Password found...1c3d5i4f == 
+Elapsed time: 135092 ms
+Password is: cb83fdj3
+Password found...cb83fdj3 == 
+Elapsed time: 57784 ms
+Password is: 4jif54e4
+Password found...4jif54e4 == 
+Elapsed time: 136612 ms
+Password is: 283jd56i
+Password found...283jd56i == 
+Elapsed time: 150355 ms
+Password is: 8a64641f
+Password found...8a64641f == 
+Elapsed time: 170900 ms
+Password is: 656ihi8j
+Password found...656ihi8j == 
+Elapsed time: 150947 ms
+Password is: j33i2h5d
+Password found...j33i2h5d == 
+Elapsed time: 46770 ms
+Password is: 26g3edj5
+Password found...26g3edj5 == 
+Elapsed time: 133568 ms
+Password is: 8a0acafb
+Password found...8a0acafb == 
+Elapsed time: 170617 ms
+Password is: 1e7a44c6
+Password found...1e7a44c6 == 
+Elapsed time: 126077 ms
+Password is: 2d212dcd
+Password found...2d212dcd == 
+Elapsed time: 130576 ms
+Password is: 32d16gc0
+Password found...32d16gc0 == 
+Elapsed time: 47592 ms
+Password is: 30d324h8
+Password found...30d324h8 == 
+Elapsed time: 174080 ms
