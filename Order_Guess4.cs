@@ -39,9 +39,9 @@ namespace bruteforce
                             if (Constants.Chars[a] == pwd[0] && Constants.Chars[b] == pwd[1] && Constants.Chars[c] == pwd[2] && Constants.Chars[d] == pwd[3])
                             {
                                 sw.Stop();
-                                var ms = sw.ElapsedMilliseconds;
+                                var ticks = sw.ElapsedTicks;
                                 Console.WriteLine($"Password found...{pwd} == {guess}");
-                                Console.WriteLine($"Elapsed time: {ms} ms");
+                                Console.WriteLine($"Elapsed time: {ticks} TICKS");
                                 return;
                             }
                         }

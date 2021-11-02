@@ -44,9 +44,9 @@ namespace bruteforce
                             if (posAChars[a] == pwd[0] && posBChars[b] == pwd[1] && posCChars[c] == pwd[2] && posDChars[d] == pwd[3])
                             {
                                 sw.Stop();
-                                var ms = sw.ElapsedMilliseconds;
+                                var ticks = sw.ElapsedTicks;
                                 Console.WriteLine($"Password found...{pwd} == {guess}");
-                                Console.WriteLine($"Elapsed time: {ms} ms");
+                                Console.WriteLine($"Elapsed time: {ticks} TICKS");
                                 return;
                             }
                         }
