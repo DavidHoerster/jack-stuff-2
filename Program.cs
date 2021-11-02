@@ -10,25 +10,55 @@ namespace bruteforce
         static void Main(string[] args)
         {
             Console.WriteLine("Ordered guessing");
-            Constants.PwdLength = 4;
-            OrderGuesser4.Guess();
+            Console.WriteLine("4-character passwords");
 
-            Constants.PwdLength = 6;
-            OrderGuesser6.Guess();
+            for (int i = 0; i < 20; i++)
+            {
+                Constants.PwdLength = 4;
+                OrderGuesser4.Guess();
+            }
 
-            Constants.PwdLength = 8;
-            OrderGuesser8.Guess();
+            Console.WriteLine("Ordered guessing");
+            Console.WriteLine("6-character passwords");
+            for (int i = 0; i < 20; i++)
+            {
+                Constants.PwdLength = 6;
+                OrderGuesser6.Guess();
+            }
 
 
             Console.WriteLine("Random guessing");
-            Constants.PwdLength = 4;
-            RngGuesser4.Guess();
+            Console.WriteLine("4-character passwords");
+            for (int i = 0; i < 20; i++)
+            {
+                Constants.PwdLength = 4;
+                RngGuesser4.Guess();
+            }
 
-            Constants.PwdLength = 6;
-            RngGuesser6.Guess();
+            Console.WriteLine("Random guessing");
+            Console.WriteLine("4-character passwords");
+            for (int i = 0; i < 20; i++)
+            {
+                Constants.PwdLength = 6;
+                RngGuesser6.Guess();
+            }
 
-            Constants.PwdLength = 8;
-            RngGuesser8.Guess();
+
+            Console.WriteLine("Ordered guessing");
+            Console.WriteLine("8-character passwords");
+            for (int i = 0; i < 20; i++)
+            {
+                Constants.PwdLength = 8;
+                OrderGuesser8.Guess();
+            }
+
+            Console.WriteLine("Random guessing");
+            Console.WriteLine("8-character passwords");
+            for (int i = 0; i < 20; i++)
+            {
+                Constants.PwdLength = 8;
+                RngGuesser8.Guess();
+            }
 
             return;
 
